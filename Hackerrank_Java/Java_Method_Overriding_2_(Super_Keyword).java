@@ -8,7 +8,7 @@ class BiCycle{
 }
 
 class MotorCycle extends BiCycle{
-	String define_me(){
+	String define_me(){//.
 		return "a cycle with an engine.";
 	}
 	
