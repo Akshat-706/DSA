@@ -8,7 +8,7 @@ class Arithmetic{
         int sum= (a + b);
         return sum;
         
-    }
+    }//..
 }
 
 class Adder extends Arithmetic{
